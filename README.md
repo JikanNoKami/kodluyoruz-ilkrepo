@@ -7,7 +7,7 @@ Bu repor (Kodluyoruz)[kodluyoruz.org] Front-End Eğitiminde oluşturduğumuz ilk
 
   
 
-##Installation
+## Installation
 
   
 
@@ -15,27 +15,27 @@ Bu repor (Kodluyoruz)[kodluyoruz.org] Front-End Eğitiminde oluşturduğumuz ilk
 
   
 
-##Usage
+## Usage
 
   
 
-Projeyi cloneladıktan sonra Vs Code programında açınız.
+Projeyi cloneladıktan sonra Vs Code programında açınız.Daha sonra devam ediniz.
 
   
 
-##Contributing
+## Contributing
 
-  
 
 Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
   
 
-##License
+## License
 
   
 
 [MIT](mit.edu)
 
-##Picture of Project
+## Picture of Project
+
 [Resim](frontend.PNG)
